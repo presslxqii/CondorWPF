@@ -1,0 +1,35 @@
+﻿<Window x:Class="CondorVisualizator.View.CoefficientWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Коэффициенты для расчёта" Height="344.834" Width="337.501" ResizeMode="NoResize" WindowStyle="None" WindowStartupLocation="CenterScreen" Icon="../Resources/Iconic_e027(0)_64.png">
+    <Window.DataContext>
+        <Binding Path="Coefficient" Source="{StaticResource Locator}" />
+    </Window.DataContext>
+    <Border BorderThickness="2" >
+    <Grid Background="#035E81" x:Name="Grid" >
+        <Label Content="—————————" HorizontalAlignment="Left" Margin="123,96,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="B" HorizontalAlignment="Left" Height="23" Margin="187,78,0,0" TextWrapping="Wrap" Text="{Binding Band.KoefficB}"  VerticalAlignment="Top" Width="46" PreviewTextInput="TextBox_PreviewTextInput" MaxLength="5" />
+        <TextBox x:Name="K" HorizontalAlignment="Left" Height="23" Margin="155,114,0,0" TextWrapping="Wrap" Text="{Binding Band.KoefficK}"  VerticalAlignment="Top" Width="50" PreviewTextInput="TextBox_PreviewTextInput" MaxLength="5" />
+        <Label Content="ρ =" FontSize="16" HorizontalAlignment="Left" Margin="88,92,0,0" VerticalAlignment="Top"/>
+        <Label Content="N" HorizontalAlignment="Left" Margin="139,80,0,0" VerticalAlignment="Top" Height="24"/>
+        <Button Command="{Binding DataContext.OkRelayCommand, ElementName=Grid}" Content="Принять" HorizontalAlignment="Left" Margin="60,269,0,0" VerticalAlignment="Top" Width="74"/>
+        <Button Command="{Binding DataContext.CloseRelayCommand, ElementName=Grid}" Content="Отмена" HorizontalAlignment="Left" Margin="186,269,0,0" VerticalAlignment="Top" Width="74"/>
+
+
+        <Label Content="-" HorizontalAlignment="Left" Margin="163,80,0,0" VerticalAlignment="Top"/>
+        <Label Content="Формула расчёта плотности для полосы" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="ρ -" FontSize="16" HorizontalAlignment="Left" Margin="69,177,0,0" VerticalAlignment="Top"/>
+        <Label Content="," FontSize="16" HorizontalAlignment="Left" Margin="243,92,0,0" VerticalAlignment="Top"/>
+        <Label Content="где:"  HorizontalAlignment="Left" Margin="49,146,0,0" VerticalAlignment="Top"/>
+        <Label Content="плотность;" HorizontalAlignment="Left" Margin="104,181,0,0" VerticalAlignment="Top"/>
+        <Label Content="N -" FontSize="14" HorizontalAlignment="Left" Margin="69,210,0,0" VerticalAlignment="Top"/>
+        <Label Content="интенсивность излучений;" HorizontalAlignment="Left" Margin="104,212,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="Box"  SelectionChanged="Selector_OnSelectionChanged" SelectedItem="{Binding Band, Mode=TwoWay}" ItemsSource="{Binding ListBand, Mode=OneWay}" DisplayMemberPath="Band" HorizontalAlignment="Left" Margin="247,10,0,0" VerticalAlignment="Top" Width="59" Height="22"/>
+        <CheckBox x:Name="BandBox" Checked="ToggleButton_OnChecked" Content="Применить для всех полос" HorizontalAlignment="Left" Margin="14,41,0,0" VerticalAlignment="Top"/>
+
+
+
+
+    </Grid>
+    </Border>
+</Window>

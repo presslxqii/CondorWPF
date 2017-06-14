@@ -1,0 +1,257 @@
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.exe
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.pdb
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.exe
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.pdb
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.exe.CodeAnalysisLog.xml
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.exe.lastcodeanalysissucceeded
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\MahApps.Metro.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Vestris.ResourceLib.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xpand.ExpressApp.Win.Para.WindowsIntegration.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\MahApps.Metro.pdb
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\MahApps.Metro.xml
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\View\Graff.baml
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\Skins\MainSkin.baml
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\View\Graff.g.cs
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\View\MainWindow.g.cs
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\App.g.cs
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator_MarkupCompile.cache
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator_MarkupCompile.lref
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\App.baml
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\View\MainWindow.baml
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.g.resources
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.Properties.Resources.resources
+C:\Users\Администратор\Downloads\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.exe.CodeAnalysisLog.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.exe.lastcodeanalysissucceeded
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\MahApps.Metro.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\Vestris.ResourceLib.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\WPFToolkit.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\Xpand.ExpressApp.Win.Para.WindowsIntegration.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\MahApps.Metro.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\MahApps.Metro.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\View\Graff.baml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\Skins\MainSkin.baml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\View\Graff.g.cs
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\View\MainWindow.g.cs
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\App.g.cs
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator_MarkupCompile.cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator_MarkupCompile.lref
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\App.baml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\View\MainWindow.baml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.g.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.pdb
+C:\Users\Администратор\documents\visual studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\Interop.WordClientPkgLib.dll
+C:\Users\Администратор\documents\visual studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.csproj.ResolveComReference.cache
+C:\Users\Администратор\documents\visual studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Администратор\documents\visual studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\PdfSharp.dll
+C:\Users\Администратор\documents\visual studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\PdfSharp.xml
+C:\Users\Администратор\documents\visual studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Администратор\documents\visual studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Администратор\documents\visual studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Администратор\documents\visual studio 2013\Projects\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator_Content.g.cs
+C:\Users\Администратор\documents\visual studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.exe.config
+C:\Users\Администратор\documents\visual studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Администратор\documents\visual studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Администратор\documents\visual studio 2013\Projects\CondorVisualizator\CondorVisualizator\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.exe.config
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\Interop.WordClientPkgLib.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.csproj.ResolveComReference.cache
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.exe
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.pdb
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\View\Graff.baml
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\Skins\MainSkin.baml
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\View\Graff.g.cs
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\View\MainWindow.g.cs
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator_Content.g.cs
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator_MarkupCompile.cache
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator_MarkupCompile.lref
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.exe
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.pdb
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.exe.CodeAnalysisLog.xml
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.exe.lastcodeanalysissucceeded
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\MahApps.Metro.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\PdfSharp.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Vestris.ResourceLib.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xpand.ExpressApp.Win.Para.WindowsIntegration.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\MahApps.Metro.pdb
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\MahApps.Metro.xml
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\PdfSharp.xml
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\App.baml
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\View\MainWindow.baml
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.g.resources
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.Properties.Resources.resources
+C:\Users\Администратор\Desktop\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\Interop.WordClientPkgLib.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.csproj.ResolveComReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.exe.CodeAnalysisLog.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\CondorVisualizator.exe.lastcodeanalysissucceeded
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\MahApps.Metro.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\PdfSharp.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Vestris.ResourceLib.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Xpand.ExpressApp.Win.Para.WindowsIntegration.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\MahApps.Metro.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\MahApps.Metro.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\PdfSharp.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\View\Graff.baml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\Skins\MainSkin.baml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\View\Graff.g.cs
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\View\MainWindow.g.cs
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\App.g.cs
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator_Content.g.cs
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator_MarkupCompile.cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator_MarkupCompile.lref
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\App.baml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\View\MainWindow.baml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.g.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\CondorVisualizator\CondorVisualizator\CondorVisualizator\obj\Debug\CondorVisualizator.csproj.GenerateResource.Cache

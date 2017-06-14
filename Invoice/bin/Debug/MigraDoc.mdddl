@@ -1,0 +1,2557 @@
+\document
+[
+  Info
+  {
+    Title = "A sample invoice"
+    Subject = "Demonstrates how to create an invoice."
+    Author = "Stefan Lange"
+  }
+  UseCmykColor = true
+]
+{
+  \styles
+  {
+    Heading1
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level1
+      }
+    }
+
+    Heading2
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level2
+      }
+    }
+
+    Heading3
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level3
+      }
+    }
+
+    Heading4
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level4
+      }
+    }
+
+    Heading5
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level5
+      }
+    }
+
+    Heading6
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level6
+      }
+    }
+
+    Heading7
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level7
+      }
+    }
+
+    Heading8
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level8
+      }
+    }
+
+    Heading9
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level9
+      }
+    }
+
+    Header
+    {
+      ParagraphFormat
+      {
+        TabStops +=
+        {
+          Position = "16cm"
+          Alignment = Right
+        }
+      }
+    }
+
+    Footer
+    {
+      ParagraphFormat
+      {
+        TabStops +=
+        {
+          Position = "8cm"
+          Alignment = Center
+        }
+      }
+    }
+
+    InvalidStyleName
+    {
+      Font
+      {
+        Bold = true
+        Underline = Dash
+        Color = Lime
+      }
+    }
+
+    Table : Normal
+    {
+      Font
+      {
+        Name = "Times New Roman"
+        Size = 9
+      }
+    }
+
+    Reference : Normal
+    {
+      ParagraphFormat
+      {
+        SpaceBefore = "5mm"
+        SpaceAfter = "5mm"
+        TabStops +=
+        {
+          Position = "16cm"
+          Alignment = Right
+        }
+      }
+    }
+  }
+  \section
+  {
+    \primaryheader
+    {
+      \image("../../PowerBooks.png")
+      [
+        Height = "2.5cm"
+        RelativeHorizontal = Margin
+        RelativeVertical = Line
+        Left = Right
+        Top = Top
+        WrapFormat
+        {
+          Style = Through
+        }
+        LockAspectRatio = true
+      ]
+    }
+    \primaryfooter
+    {
+      \paragraph
+      [
+        Format
+        {
+          Font
+          {
+            Size = 9
+          }
+          Alignment = Center
+        }
+      ]
+      {
+        PowerBooks Inc · Sample Street 42 · 56789 Cologne · Germany
+      }
+    }
+    \textframe
+    [
+      Height = "3cm"
+      Width = "7cm"
+      RelativeHorizontal = Margin
+      RelativeVertical = Page
+      Left = Left
+      Top = "5cm"
+    ]
+    {
+      \paragraph
+      [
+        Format
+        {
+          Font
+          {
+            Name = "Times New Roman"
+            Size = 7
+          }
+          SpaceAfter = 3
+        }
+      ]
+      {
+        PowerBooks Inc · Sample Street 42 · 56789 Cologne
+      }
+      \paragraph
+      {
+        Peter Smith\linebreak
+        Main Street 123\linebreak
+        81539 Munich
+      }
+    }
+    \paragraph
+    [
+      Style = "Reference"
+      Format
+      {
+        SpaceBefore = "8cm"
+      }
+    ]
+    {
+      \bold{INVOICE}\tab Cologne, \field(Date)[Format = "dd.MM.yyyy"]
+    }
+    \table
+    [
+      Style = "Table"
+      Borders
+      {
+        Width = 0.25
+        Color = RGB(81,125,192)
+        Left
+        {
+          Width = 0.5
+        }
+        Right
+        {
+          Width = 0.5
+        }
+      }
+    ]
+    {
+      \columns
+      {
+        \column
+        [
+          Format
+          {
+            Alignment = Center
+          }
+          Width = "1cm"
+        ]
+        \column
+        [
+          Format
+          {
+            Alignment = Right
+          }
+          Width = "2.5cm"
+        ]
+        \column
+        [
+          Format
+          {
+            Alignment = Right
+          }
+          Width = "3cm"
+        ]
+        \column
+        [
+          Format
+          {
+            Alignment = Right
+          }
+          Width = "3.5cm"
+        ]
+        \column
+        [
+          Format
+          {
+            Alignment = Center
+          }
+          Width = "2cm"
+        ]
+        \column
+        [
+          Format
+          {
+            Alignment = Right
+          }
+          Width = "4cm"
+        ]
+      }
+      \rows
+      [
+        LeftIndent = 0
+      ]
+      {
+        \row
+        [
+          Format
+          {
+            Font
+            {
+              Bold = true
+            }
+            Alignment = Center
+          }
+          HeadingFormat = true
+          Shading
+          {
+            Color = RGB(235,240,249)
+          }
+        ]
+        {
+          \cell
+          [
+            Format
+            {
+              Font
+              {
+                Bold = false
+              }
+              Alignment = Left
+            }
+            MergeDown = 1
+            VerticalAlignment = Bottom
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            Item
+          }
+          \cell
+          [
+            Format
+            {
+              Alignment = Left
+            }
+            MergeRight = 3
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            Title and Author
+          }
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Format
+            {
+              Alignment = Left
+            }
+            MergeDown = 1
+            VerticalAlignment = Bottom
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            Extended Price
+          }
+        }
+        \row
+        [
+          Format
+          {
+            Font
+            {
+              Bold = true
+            }
+            Alignment = Center
+          }
+          HeadingFormat = true
+          Shading
+          {
+            Color = RGB(235,240,249)
+          }
+        ]
+        {
+          \cell
+          [
+            Borders
+            {
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Format
+            {
+              Alignment = Left
+            }
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            Quantity
+          }
+          \cell
+          [
+            Format
+            {
+              Alignment = Left
+            }
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            Unit Price
+          }
+          \cell
+          [
+            Format
+            {
+              Alignment = Left
+            }
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            Discount (%)
+          }
+          \cell
+          [
+            Format
+            {
+              Alignment = Left
+            }
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            Taxable
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+        }
+        \row
+        [
+          TopPadding = 1.5
+        ]
+        {
+          \cell
+          [
+            MergeDown = 1
+            VerticalAlignment = Center
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+            Shading
+            {
+              Color = RGB(242,242,242)
+            }
+          ]
+          {
+            1
+          }
+          \cell
+          [
+            Format
+            {
+              Alignment = Left
+            }
+            MergeRight = 3
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            \bold{PDF Reference Version 1.6 (5th Edition)}\italic{ by }Adobe Systems Inc.
+          }
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            MergeDown = 1
+            VerticalAlignment = Bottom
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+            Shading
+            {
+              Color = RGB(242,242,242)
+            }
+          ]
+          {
+            70,30 €
+          }
+        }
+        \row
+        {
+          \cell
+          [
+            Borders
+            {
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            2
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            37,00 €
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            5,0
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            37,00
+          }
+        }
+        \row
+        [
+          TopPadding = 1.5
+        ]
+        {
+          \cell
+          [
+            MergeDown = 1
+            VerticalAlignment = Center
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+            Shading
+            {
+              Color = RGB(242,242,242)
+            }
+          ]
+          {
+            1
+          }
+          \cell
+          [
+            Format
+            {
+              Alignment = Left
+            }
+            MergeRight = 3
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            \bold{iText in Action - Creating and Manipulating PDF}\italic{ by }Bruno Lowagie
+          }
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            MergeDown = 1
+            VerticalAlignment = Bottom
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+            Shading
+            {
+              Color = RGB(242,242,242)
+            }
+          ]
+          {
+            35,10 €
+          }
+        }
+        \row
+        {
+          \cell
+          [
+            Borders
+            {
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            1
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            36,95 €
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            5,0
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            36,95
+          }
+        }
+        \row
+        [
+          TopPadding = 1.5
+        ]
+        {
+          \cell
+          [
+            MergeDown = 1
+            VerticalAlignment = Center
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+            Shading
+            {
+              Color = RGB(242,242,242)
+            }
+          ]
+          {
+            2
+          }
+          \cell
+          [
+            Format
+            {
+              Alignment = Left
+            }
+            MergeRight = 3
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            \bold{The C# Programming Language}\italic{ by }Anders Hejlsberg, Peter Golde, Scott Wiltamuth
+          }
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            MergeDown = 1
+            VerticalAlignment = Bottom
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+            Shading
+            {
+              Color = RGB(242,242,242)
+            }
+          ]
+          {
+            103,50 €
+          }
+        }
+        \row
+        {
+          \cell
+          [
+            Borders
+            {
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            5
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            23,00 €
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            10,0
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            23,00
+          }
+        }
+        \row
+        [
+          TopPadding = 1.5
+        ]
+        {
+          \cell
+          [
+            MergeDown = 1
+            VerticalAlignment = Center
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+            Shading
+            {
+              Color = RGB(242,242,242)
+            }
+          ]
+          {
+            3
+          }
+          \cell
+          [
+            Format
+            {
+              Alignment = Left
+            }
+            MergeRight = 3
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            \bold{The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory}\italic{ by }Brian Greene
+          }
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            MergeDown = 1
+            VerticalAlignment = Bottom
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+            Shading
+            {
+              Color = RGB(242,242,242)
+            }
+          ]
+          {
+            17,90 €
+          }
+        }
+        \row
+        {
+          \cell
+          [
+            Borders
+            {
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            1
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            17,90 €
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            0,0
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            17,90
+          }
+        }
+        \row
+        [
+          TopPadding = 1.5
+        ]
+        {
+          \cell
+          [
+            MergeDown = 1
+            VerticalAlignment = Center
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+            Shading
+            {
+              Color = RGB(242,242,242)
+            }
+          ]
+          {
+            4
+          }
+          \cell
+          [
+            Format
+            {
+              Alignment = Left
+            }
+            MergeRight = 3
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            \bold{'Surely You're Joking, Mr. Feynman!' (Adventures of a Curious Character)}\italic{ by }Richard P. Feynman, Ralph Leighton
+          }
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            MergeDown = 1
+            VerticalAlignment = Bottom
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+            Shading
+            {
+              Color = RGB(242,242,242)
+            }
+          ]
+          {
+            29,40 €
+          }
+        }
+        \row
+        {
+          \cell
+          [
+            Borders
+            {
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            3
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            9,80 €
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            0,0
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            9,80
+          }
+        }
+        \row
+        [
+          TopPadding = 1.5
+        ]
+        {
+          \cell
+          [
+            MergeDown = 1
+            VerticalAlignment = Center
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+            Shading
+            {
+              Color = RGB(242,242,242)
+            }
+          ]
+          {
+            5
+          }
+          \cell
+          [
+            Format
+            {
+              Alignment = Left
+            }
+            MergeRight = 3
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            \bold{The Mind's I}\italic{ by }Douglas R. Hofstadter, Daniel C. Dennett
+          }
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            MergeDown = 1
+            VerticalAlignment = Bottom
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+            Shading
+            {
+              Color = RGB(242,242,242)
+            }
+          ]
+          {
+            29,90 €
+          }
+        }
+        \row
+        {
+          \cell
+          [
+            Borders
+            {
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            1
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            29,90 €
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            0,0
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            29,90
+          }
+        }
+        \row
+        [
+          TopPadding = 1.5
+        ]
+        {
+          \cell
+          [
+            MergeDown = 1
+            VerticalAlignment = Center
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+            Shading
+            {
+              Color = RGB(242,242,242)
+            }
+          ]
+          {
+            6
+          }
+          \cell
+          [
+            Format
+            {
+              Alignment = Left
+            }
+            MergeRight = 3
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            \bold{The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design}\italic{ by }Richard Dawkins
+          }
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            MergeDown = 1
+            VerticalAlignment = Bottom
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+            Shading
+            {
+              Color = RGB(242,242,242)
+            }
+          ]
+          {
+            11,00 €
+          }
+        }
+        \row
+        {
+          \cell
+          [
+            Borders
+            {
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            1
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            11,00 €
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            0,0
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            11,00
+          }
+        }
+        \row
+        [
+          TopPadding = 1.5
+        ]
+        {
+          \cell
+          [
+            MergeDown = 1
+            VerticalAlignment = Center
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+            Shading
+            {
+              Color = RGB(242,242,242)
+            }
+          ]
+          {
+            7
+          }
+          \cell
+          [
+            Format
+            {
+              Alignment = Left
+            }
+            MergeRight = 3
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            \bold{How the Mind Works}\italic{ by }Steven Pinker
+          }
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            MergeDown = 1
+            VerticalAlignment = Bottom
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+            Shading
+            {
+              Color = RGB(242,242,242)
+            }
+          ]
+          {
+            16,30 €
+          }
+        }
+        \row
+        {
+          \cell
+          [
+            Borders
+            {
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            1
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            16,30 €
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            0,0
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            16,30
+          }
+        }
+        \row
+        [
+          TopPadding = 1.5
+        ]
+        {
+          \cell
+          [
+            MergeDown = 1
+            VerticalAlignment = Center
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+            Shading
+            {
+              Color = RGB(242,242,242)
+            }
+          ]
+          {
+            8
+          }
+          \cell
+          [
+            Format
+            {
+              Alignment = Left
+            }
+            MergeRight = 3
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            \bold{The Origins of Life: From the Birth of Life to the Origin of Language}\italic{ by }John Maynard Smith, Eors Szathmary
+          }
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            MergeDown = 1
+            VerticalAlignment = Bottom
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+            Shading
+            {
+              Color = RGB(242,242,242)
+            }
+          ]
+          {
+            29,45 €
+          }
+        }
+        \row
+        {
+          \cell
+          [
+            Borders
+            {
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            1
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            29,45 €
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            0,0
+          }
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          \cell
+          [
+            Borders
+            {
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            29,45
+          }
+        }
+        \row
+        [
+          Borders
+          {
+            Visible = false
+          }
+        ]
+        {
+        }
+        \row
+        {
+          \cell
+          [
+            Format
+            {
+              Font
+              {
+                Bold = true
+              }
+              Alignment = Right
+            }
+            MergeRight = 4
+            Borders
+            {
+              Visible = false
+            }
+          ]
+          {
+            Total Price
+          }
+          \cell
+          \cell
+          \cell
+          \cell
+          \cell
+          [
+            Borders
+            {
+              Top
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            342,85 €
+          }
+        }
+        \row
+        {
+          \cell
+          [
+            Format
+            {
+              Font
+              {
+                Bold = true
+              }
+              Alignment = Right
+            }
+            MergeRight = 4
+            Borders
+            {
+              Visible = false
+            }
+          ]
+          {
+            VAT (19%)
+          }
+          \cell
+          \cell
+          \cell
+          \cell
+          \cell
+          [
+            Borders
+            {
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            65,14 €
+          }
+        }
+        \row
+        {
+          \cell
+          [
+            Format
+            {
+              Font
+              {
+                Bold = true
+              }
+              Alignment = Right
+            }
+            MergeRight = 4
+            Borders
+            {
+              Visible = false
+            }
+          ]
+          {
+            Shipping and Handling
+          }
+          \cell
+          \cell
+          \cell
+          \cell
+          \cell
+          [
+            Borders
+            {
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            0,00 €
+          }
+        }
+        \row
+        {
+          \cell
+          [
+            Format
+            {
+              Font
+              {
+                Bold = true
+              }
+              Alignment = Right
+            }
+            MergeRight = 4
+            Borders
+            {
+              Visible = false
+            }
+          ]
+          {
+            Total Due
+          }
+          \cell
+          \cell
+          \cell
+          \cell
+          \cell
+          [
+            Borders
+            {
+              Left
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Bottom
+              {
+                Style = Single
+                Width = 0.75
+              }
+              Right
+              {
+                Style = Single
+                Width = 0.75
+              }
+            }
+          ]
+          {
+            407,99 €
+          }
+        }
+      }
+    }
+    \paragraph
+    [
+      Format
+      {
+        SpaceBefore = "1cm"
+        Borders
+        {
+          Width = 0.75
+          Color = RGB(81,125,192)
+          DistanceFromTop = 3
+          DistanceFromBottom = 3
+          DistanceFromLeft = 3
+          DistanceFromRight = 3
+        }
+        Shading
+        {
+          Color = RGB(242,242,242)
+        }
+      }
+    ]
+    {
+      This is a sample invoice created with MigraDoc. The PDF document is rendered with PDFsharp.
+    }
+  }
+}

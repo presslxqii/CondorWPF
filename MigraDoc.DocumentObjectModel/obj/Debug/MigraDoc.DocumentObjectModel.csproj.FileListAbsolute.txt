@@ -1,0 +1,11 @@
+C:\Users\Админ\Desktop\PDFSharp-MigraDocFoundation-1_32\MigraDoc\code\MigraDoc.DocumentObjectModel\bin\Debug\MigraDoc.DocumentObjectModel.xml
+C:\Users\Админ\Desktop\PDFSharp-MigraDocFoundation-1_32\MigraDoc\code\MigraDoc.DocumentObjectModel\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Админ\Desktop\PDFSharp-MigraDocFoundation-1_32\MigraDoc\code\MigraDoc.DocumentObjectModel\bin\Debug\MigraDoc.DocumentObjectModel.pdb
+C:\Users\Админ\Desktop\PDFSharp-MigraDocFoundation-1_32\MigraDoc\code\MigraDoc.DocumentObjectModel\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\Админ\Desktop\PDFSharp-MigraDocFoundation-1_32\MigraDoc\code\MigraDoc.DocumentObjectModel\obj\Debug\MigraDoc.DocumentObjectModel.Resources.Messages.resources
+C:\Users\Админ\Desktop\PDFSharp-MigraDocFoundation-1_32\MigraDoc\code\MigraDoc.DocumentObjectModel\obj\Debug\Properties.Resources.resources
+C:\Users\Админ\Desktop\PDFSharp-MigraDocFoundation-1_32\MigraDoc\code\MigraDoc.DocumentObjectModel\obj\Debug\MigraDoc.DocumentObjectModel.Resources.Messages.de.resources
+C:\Users\Админ\Desktop\PDFSharp-MigraDocFoundation-1_32\MigraDoc\code\MigraDoc.DocumentObjectModel\obj\Debug\MigraDoc.DocumentObjectModel.csproj.GenerateResource.Cache
+C:\Users\Админ\Desktop\PDFSharp-MigraDocFoundation-1_32\MigraDoc\code\MigraDoc.DocumentObjectModel\obj\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\Админ\Desktop\PDFSharp-MigraDocFoundation-1_32\MigraDoc\code\MigraDoc.DocumentObjectModel\obj\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Админ\Desktop\PDFSharp-MigraDocFoundation-1_32\MigraDoc\code\MigraDoc.DocumentObjectModel\obj\Debug\MigraDoc.DocumentObjectModel.pdb

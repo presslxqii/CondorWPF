@@ -1,0 +1,19 @@
+﻿<Window x:Class="CondorVisualizator.View.ReportWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Протокол" Height="219" Width="212" Icon="../Resources/Iconic_e027(0)_64.png" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Window.DataContext>
+        <Binding Path="Report" Source="{StaticResource Locator}" />
+    </Window.DataContext>
+    <Border BorderBrush="AntiqueWhite"  BorderThickness="3">
+        <Grid x:Name="WindowReport" Background="#035E81">
+            <CheckBox Name="Density" IsChecked="{Binding Path=Density}" Content="Таблица плотности" HorizontalAlignment="Left" Margin="29,54,0,0" VerticalAlignment="Top"/>
+            <Label Content="Протокол измерения - " HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="135" RenderTransformOrigin="0.273,0.462"/>
+            <TextBox Text="{Binding Path=TextNumMess}"  HorizontalAlignment="Left" Height="23" Margin="151,10,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="41"/>
+            <Button Content="Применить" HorizontalAlignment="Left" Margin="10,167,0,0" VerticalAlignment="Top" Width="83" Command="{Binding DataContext.OkRelayCommand, ElementName=WindowReport}"/>
+            <Button Content="Отмена" HorizontalAlignment="Left" Margin="110,167,0,0" VerticalAlignment="Top" Width="82" Command="{Binding DataContext.CloseRelayCommand, ElementName=WindowReport}"/>
+            <CheckBox Name="Thicknesses" IsChecked="{Binding Path=Thicknesses}" Content="Таблица толщин слоёв" HorizontalAlignment="Left" Margin="29,118,0,0" VerticalAlignment="Top"/>
+            <CheckBox Name="Rutting" IsChecked="{Binding Path=Rutting}"  Content="Таблица колейности" HorizontalAlignment="Left" Margin="29,86,0,0" VerticalAlignment="Top"/>
+        </Grid>
+    </Border>
+</Window>

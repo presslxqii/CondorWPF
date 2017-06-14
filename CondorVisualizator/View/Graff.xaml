@@ -1,0 +1,19 @@
+﻿<UserControl BorderThickness="0"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="CondorVisualizator.View.Graff"
+	x:Name="UserControl" Width="364.208" Height="155.766">
+
+    <Grid HorizontalAlignment="Left" Width="364" x:Name="GridAll">
+        <Grid x:Name="BigGridRow" Margin="52,23,0,53"/>
+        <Grid x:Name="GridForButton" Margin="0,23,0,53" HorizontalAlignment="Left" Width="52"/>
+    </Grid>
+
+
+
+
+
+</UserControl>

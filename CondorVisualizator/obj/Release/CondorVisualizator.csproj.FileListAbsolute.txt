@@ -1,0 +1,13 @@
+C:\Repository\Condor Visualizator\CondorVisualizator\bin\Release\CondorVisualizator.exe.config
+C:\Repository\Condor Visualizator\CondorVisualizator\obj\Release\Interop.WordClientPkgLib.dll
+C:\Repository\Condor Visualizator\CondorVisualizator\obj\Release\CondorVisualizator.csproj.ResolveComReference.cache
+C:\Repository\Condor Visualizator\CondorVisualizator\obj\Release\CondorVisualizator.csprojResolveAssemblyReference.cache
+C:\Repository\Condor Visualizator\CondorVisualizator\obj\Release\View\Graff.baml
+C:\Repository\Condor Visualizator\CondorVisualizator\obj\Release\Skins\MainSkin.baml
+C:\Repository\Condor Visualizator\CondorVisualizator\obj\Release\View\Measurment.baml
+C:\Repository\Condor Visualizator\CondorVisualizator\obj\Release\View\ReportWindow.baml
+C:\Repository\Condor Visualizator\CondorVisualizator\obj\Release\View\Graff.g.cs
+C:\Repository\Condor Visualizator\CondorVisualizator\obj\Release\View\Measurment.g.cs
+C:\Repository\Condor Visualizator\CondorVisualizator\obj\Release\View\ReportWindow.g.cs
+C:\Repository\Condor Visualizator\CondorVisualizator\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Repository\Condor Visualizator\CondorVisualizator\obj\Release\CondorVisualizator_MarkupCompile.cache
